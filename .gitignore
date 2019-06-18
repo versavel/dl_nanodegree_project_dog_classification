@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*.pt
+dogImages/
+lfw/
+
