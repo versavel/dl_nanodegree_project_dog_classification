@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 *.pt
 dogImages
+dog_images
 lfw
 
